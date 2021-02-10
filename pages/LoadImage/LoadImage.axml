@@ -1,0 +1,4 @@
+<view class = "wrapper">
+<view class = "card"><button type="primary" onTap="loadImage">Load </button></view>
+<view style = "font-size: 20px; text-align: center;" class = "card">{{srcimage}}</view>
+</view>

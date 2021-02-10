@@ -1,0 +1,4 @@
+<view class = "wrapper">
+<view class = "card"><button onTap="scanCode">Scan Code (QR/Bar)</button></view>
+<view style = "font-size: 30px; text-align: center;" class = "card">{{qr_code}}</view>
+</view>

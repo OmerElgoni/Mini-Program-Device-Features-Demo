@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/LoadImage/LoadImage",
+    "pages/GetLocation/GetLocation", 
+    "pages/ScanCode/ScanCode",
+    "pages/NetworkType/NetworkType"
+  
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  }
+}

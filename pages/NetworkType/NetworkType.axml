@@ -1,0 +1,5 @@
+<view class = "wrapper">
+<view class = "card"><button type="primary" onTap="networkDetails">Load Network Details</button></view>
+<view style = "font-size: 20px; text-align: center;" class = "card">Network Available: {{network_available}}</view>
+<view style = "font-size: 20px; text-align: center;" class = "card">Network Type: {{network_type}}</view>
+</view>

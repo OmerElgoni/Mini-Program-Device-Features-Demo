@@ -1,0 +1,5 @@
+<view class = "wrapper">
+<view class = "card"><button onTap="getUserLocation">Get Location</button></view>
+<view style = "font-size: 25px;" class = "card">Longitude: {{longitudeVal}}</view>
+<view style = "font-size: 25px;" class = "card">Latitude: {{latitudeVal}}</view>
+</view>

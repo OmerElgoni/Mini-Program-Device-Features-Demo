@@ -1,0 +1,12 @@
+
+<view class = "wrapper">
+
+<view class = "card" style = "text-align: center; font-size: 30px; ">Demo of device features</view>
+<view class = "card"><button type="primary" onTap="navigateToLocation">Get Location</button></view>
+<view class = "card"><button type="primary" onTap="navigateToScan">Scan QR/Bar code</button></view>
+<view class = "card"><button type="primary" onTap="navigateToImageChooser">Choose Image</button></view>
+<view class = "card"><button type="primary" onTap="navigateToNetwork">Get Network type</button></view>
+
+
+
+</view>
